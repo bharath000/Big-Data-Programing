@@ -1,0 +1,5 @@
+('hadoop', 4)
+('spark', 3)
+('pig', 2)
+('hive', 1)
+('hbase', 1)
